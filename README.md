@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Roman-1990=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Roman-1990/Roman-1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
